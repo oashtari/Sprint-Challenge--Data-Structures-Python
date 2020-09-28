@@ -15,6 +15,7 @@ duplicates = []  # Return the list of duplicates in this data structure
 
 # Replace the nested for loops below with your improvements
 # ORIGINAL CODE
+# RUNTIME O(n**2)
 
 # for name_1 in names_1:
 #     for name_2 in names_2:
